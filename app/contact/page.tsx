@@ -9,19 +9,19 @@ const socials = [
 		icon: <Twitter size={20} />,
 		href: "https://twitter.com/chronark_",
 		label: "Twitter",
-		handle: "@chronark_",
+		handle: "@ansh_sx",
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:dev@chronark.com",
+		href: "mailto:anshrsx@gmail.com",
 		label: "Email",
-		handle: "dev@chronark.com",
+		handle: "anshrsx@gmail.com",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/chronark",
+		href: "https://github.com/ansh-sx",
 		label: "Github",
-		handle: "chronark",
+		handle: "ansh-sx",
 	},
 ];
 
