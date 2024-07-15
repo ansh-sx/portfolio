@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "ansh.com",
+    template: "%s | ansh.com",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Dev Portfolio Of Ansh Sharma",
   openGraph: {
-    title: "chronark.com",
+    title: "ansh.com",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
+      "Dev Portfolio Of Ansh Sharma",
+    url: "https://ansh.com",
     siteName: "chronark.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://ansh.com/og.png",
         width: 1920,
         height: 1080,
       },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Ansh",
     card: "summary_large_image",
   },
   icons: {
