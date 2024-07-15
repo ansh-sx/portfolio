@@ -38,10 +38,10 @@ export default function Home() {
           I'm building{" "}
           <Link
             target="_blank"
-            href="AI Browser App"
+            href="https://github.com/ansh-sx"
             className="underline duration-500 hover:text-zinc-300"
           >
-            unkey.dev
+            ansh.sx
           </Link> so that you can get to know what real browsing is ..
         </h2>
       </div>
